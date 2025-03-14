@@ -13,7 +13,7 @@ I am a graduate student in the Department of Statistical Science at Duke Univers
 
 At the Big Data Institute, I optimized data processing and clustering algorithms. At the Bank of China, I was involved in the deployment and fine tuning of large language models - Qwen 14B. I also utilized the Vue framework for front - end development.     <!--Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.--><br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - siming_deng_stat [at] @163.com
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - siming_deng_stat [at] 163.com
 
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
