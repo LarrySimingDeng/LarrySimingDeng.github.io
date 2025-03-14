@@ -21,6 +21,7 @@ When I’m not coding or dissecting research papers, you’ll find me strumming 
 ## My Guitar
 My guitar, my life. My guitar, my wife :)
 <img src="/images/guitar.jpg">
+
 ---
 
 <!-- ## Chat with me -->
