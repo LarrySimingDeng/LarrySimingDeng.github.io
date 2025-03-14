@@ -14,11 +14,9 @@ Beyond the realms of academia and AI innovation, you’ll find me lost in the so
 My musical heroes are legends who’ve shaped the genre: B.B. King, Eric Clapton and John Mayer. Their influence resonates in my playing, whether I’m jamming to a classic 12-bar shuffle or experimenting with ambient textures.<br>
 
 When I’m not coding or dissecting research papers, you’ll find me strumming a blues progression, letting the music wash over me — a reminder that even the most analytical minds need an outlet for creativity. After all, life isn’t just about hitting the right notes in code; it’s about finding harmony between the head and the heart.
-<div class="third">
 <img src="/images/dsm2.jpg">
 <img src="/images/dsm3.jpg">
 <img src="/images/dsm4.jpg">
-</div><br>
 
 ## My Guitar
 My guitar, my life. My guitar, my wife :)
