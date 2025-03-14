@@ -18,21 +18,16 @@ This page hasn’t been updated for a long time. Over the past year, I’ve rema
 <img src="/images/dsm3.jpg">
 <img src="/images/dsm4.jpg">
 </div><br>
-
 <!-- ## Workshop
-
 <div class="third">
 <img src="/images/prelection1.JPG">
 <img src="/images/speech1.JPG">
 <img src="/images/speech3.JPG">
 </div>
 <br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
 [best universities in my hometown]:https://www.fzu.edu.cn/ -->
 
-
 ## My Guitar
-
 My guitar, my life. My guitar, my wife :)
 <img src="/images/guitar.jpg">
 ---
