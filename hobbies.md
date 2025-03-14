@@ -37,11 +37,10 @@ This page hasn’t been updated for a long time. Over the past year, I’ve rema
 ## My Guitar
 
 My guitar, my life. My guitar, my wife :)
-
 <div>
 <img src="/images/guitar.jpg">
 </div>
-<br>
+---
 
 <!-- ## Chat with me -->
 

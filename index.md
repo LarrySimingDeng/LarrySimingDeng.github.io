@@ -20,12 +20,13 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## Research Interests
-<img src="/images/dsm1.jpg">
+
 - Bayesian Statistics
 - Machine Learning
 - Nonparametric Statistics
 
 My current research focuses on addressing critical challenges in measurement error modeling and unobservable variable estimation, particularly in multiplicative distortion frameworks. Through theoretical advancements in calibration methods and simulation optimization, I have contributed to improving the accuracy of correlation coefficient estimation under complex industrial scenarios.
+<img src="/images/dsm1.jpg">
 
 
 <!-- ## News and Updates -->
