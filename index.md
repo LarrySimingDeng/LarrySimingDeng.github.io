@@ -9,9 +9,9 @@ layout: page
 
 Here is **Siming Deng (Larry Deng)**.<br>
 
-I am a graduate student in the Department of Statistical Science at Duke University.<!-- advised by [Prof. XXX](放教授web，http开头), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/).--> Prior to Duke, I also had a valuable research experience as a Research Assistant at Shenzhen University, supervised by [Dr. Jun Zhang](https://www.researchgate.net/profile/Jun_Zhang93). I was engaged in various research projects related to Nonparametric Statistics, Distortion Measurement Error Models and Large Sample Theory. I developed and analyzed advanced methods, conducted large - scale statistical simulations using R, and applied these methods to real - world datasets, resulting in four SCI publications. <br>
+I am a graduate student in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University.<!-- advised by [Prof. XXX](放教授web，http开头), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/).--> Prior to joining Duke, I gained valuable research experiences as a Research Assistant at Shenzhen University under the supervision of [Dr. Jun Zhang](https://www.researchgate.net/profile/Jun_Zhang93). My work focused on Nonparametric Statistics, Distortion Measurement Error Models, and Large Sample Theory. I developed and analyzed advanced statistical methods, conducted large-scale simulations using R, and applied these techniques to real-world datasets, resulting in four SCI publications.<br>
 
-At the Big Data Institute, I optimized data processing and clustering algorithms. At the Bank of China, I was involved in the deployment and fine tuning of large language models - Qwen 14B. I also utilized the Vue framework for front - end development.     <!--Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.--><br>
+At the Big Data Institute, I optimized data processing and clustering algorithms. At the Bank of China, I was involved in the deployment and fine tuning of large language models - Qwen 14B. I also utilized the Vue framework for front - end development.<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - siming_deng_stat [at] 163.com
 
@@ -29,14 +29,14 @@ My current research focuses on addressing critical challenges in measurement err
 <img src="/images/dsm1.jpg">
 
 
-<!-- ## News and Updates -->
+## News and Updates
 
-<!--- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
+- **March 2025**：Thrilled to have received an offer from Duke University's Department of Statistical Science!
+<!-- - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò. --> 
+- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.  -->
 
 <!-- <br>
 
