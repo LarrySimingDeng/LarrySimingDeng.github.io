@@ -11,7 +11,6 @@ This page hasn’t been updated for a long time. Over the past year, I’ve rema
 ## Passion for the Blues: My Guitar Journey
 
 <div class="third">
-<img src="/images/dsm1.jpg">
 <img src="/images/dsm2.jpg">
 <img src="/images/dsm3.jpg">
 </div>
