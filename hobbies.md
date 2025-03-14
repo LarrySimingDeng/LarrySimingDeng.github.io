@@ -14,7 +14,7 @@ When I’m not coding or dissecting research papers, you’ll find me strumming 
 <img src="/images/dsm2.jpg">
 <img src="/images/dsm3.jpg">
 <img src="/images/dsm4.jpg">
-</div>
+</div><br>
 
 
 ## My Guitar
