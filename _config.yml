@@ -9,16 +9,16 @@ owner:
   name: Siming Deng
   avatar: siming.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
+  email: siming_deng_stat@163.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: lancecai2002
   github: LarrySimingDeng
   linkedin: hanlincai
   scholar: https://scholar.google.com/citations?hl=en&user=aKyLtgsAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  # bilibili: 594030035
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -46,8 +46,8 @@ links:
     url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
