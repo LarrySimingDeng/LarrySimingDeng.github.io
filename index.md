@@ -7,7 +7,7 @@ layout: page
 <img src="https://larrysimingdeng.github.io/dengsiming.jpg" class="floatpic">
 
 
-Here is **Siming Deng (Larry, 邓思明)**.<br>
+Here is **Siming Deng (Larry Deng)**.<br>
 
 I am a graduate student in the Department of Statistical Science at Duke University.<!-- advised by [Prof. XXX](放教授web，http开头), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/).--> Prior to Duke, I also had a valuable research experience as a Research Assistant at Shenzhen University, supervised by [Dr. Jun Zhang](https://www.researchgate.net/profile/Jun_Zhang93). I was engaged in various research projects related to Nonparametric Statistics, Distortion Measurement Error Models and Large Sample Theory. I developed and analyzed advanced methods, conducted large - scale statistical simulations using R, and applied these methods to real - world datasets, resulting in four SCI publications. <br>
 
