@@ -17,8 +17,4 @@ title: Publications
 - [Estimation of Correlation Coefficient with Monotone Transformation and Multiplicative Distortions, Communications in Statistics - Theory and Methods, 2023. (SCI, 3rd-author)](https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794)<br> Jun Zhang, Xuan Yu, **Siming Deng**, JiongTao Zhong, Yisheng Zhou & Bingqing
  Lin<br>
 
-
-<br>
-
-
 ---
