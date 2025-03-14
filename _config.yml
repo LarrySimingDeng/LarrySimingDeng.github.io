@@ -12,7 +12,7 @@ owner:
   email: siming_deng_stat@163.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  # twitter: lancecai2002
   github: LarrySimingDeng
   linkedin: hanlincai
   scholar: https://scholar.google.com/citations?hl=en&user=aKyLtgsAAAAJ
@@ -40,14 +40,13 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  # - title: Awards
+  #   url: /awards/
   - title: Hobbies
     url: /hobbies/
   # - title: Startups
     # url: /startups/
-  # - title: Blogs
-  #   url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
