@@ -5,7 +5,7 @@ title: Hobbies
 ---
 
 ## Passion for the Blues: My Guitar Journey
-Beyond academia and AI innovation, you’ll find me lost in the soulful rhythms of the blues. lost in the soulful rhythms of the blues. For me, the guitar isn’t just an instrument — it’s a bridge between logic and emotion, a medium to channel life’s raw, unfiltered energy. I’ve spent countless evenings with fingers dancing across the fretboard, honing the perfect bend or riff until my mom practically dragged me out for dinner. To me, blues is more than music; it’s a storytelling language where every note carries joy, struggle, and resilience.<br>
+Beyond academia and AI innovation, you’ll find me lost in the soulful rhythms of the blues. For me, the guitar isn’t just an instrument — it’s a bridge between logic and emotion, a medium to channel life’s raw, unfiltered energy. I’ve spent countless evenings with fingers dancing across the fretboard, honing the perfect bend or riff until my mom practically dragged me out for dinner. To me, blues is more than music; it’s a storytelling language where every note carries joy, struggle, and resilience.<br>
 
 My musical heroes are legends who pioneered the genre: B.B. King’s soulful improvisation, Eric Clapton’s blues-rock mastery, and John Mayer’s modern reinvention. Their influence resonates in my playing—whether I’m jamming the blues’ foundational 12-bar shuffle or experimenting with ambient textures.<br>
 
