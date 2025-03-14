@@ -11,9 +11,9 @@ This page hasn’t been updated for a long time. Over the past year, I’ve rema
 ## Guitar
 
 <div class="third">
-<img src="/images/dsm1.JPG">
-<img src="/images/dsm2.JPG">
-<img src="/images/dsm3.JPG">
+<img src="/images/dsm1.jpg">
+<img src="/images/dsm2.jpg">
+<img src="/images/dsm3.jpg">
 </div>
 <br>Beyond the realms of academia and AI innovation, you’ll find me lost in the soulful rhythms of the blues. For me, the guitar isn’t just an instrument — it’s a bridge between logic and emotion, a medium to channel the raw, unfiltered energy of life. I’ve spent countless evenings locked in my room, fingers dancing across the fretboard as I chase the perfect bend or riff until my mom had to practically drag me out for dinner. To me, blues is more than music; it’s a language of storytelling, where every note carries the weight of joy, struggle, and resilience.
 

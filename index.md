@@ -9,7 +9,9 @@ layout: page
 
 Here is **Siming Deng (Larry, 邓思明)**.<br>
 
-I am a graduate student in the Department of Statistical Science at Duke University.<!-- advised by [Prof. XXX](放教授web，http开头), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/).--> Prior to Duke, I also had a valuable research experience as a Research Assistant at Shenzhen University, supervised by [Dr. Jun Zhang](https://www.researchgate.net/profile/Jun_Zhang93). I was engaged in various research projects related to Nonparametric Statistics, Distortion Measurement Error Models and Large Sample Theory. I developed and analyzed advanced methods, conducted large - scale statistical simulations using R, and applied these methods to real - world datasets, resulting in four SCI publications. At the Big Data Institute, I optimized data processing and clustering algorithms. At the Bank of China, I was involved in the deployment and fine tuning of large language models - Qwen 14B. I also utilized the Vue framework for front - end development.     <!--Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.--><br>
+I am a graduate student in the Department of Statistical Science at Duke University.<!-- advised by [Prof. XXX](放教授web，http开头), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/).--> Prior to Duke, I also had a valuable research experience as a Research Assistant at Shenzhen University, supervised by [Dr. Jun Zhang](https://www.researchgate.net/profile/Jun_Zhang93). I was engaged in various research projects related to Nonparametric Statistics, Distortion Measurement Error Models and Large Sample Theory. I developed and analyzed advanced methods, conducted large - scale statistical simulations using R, and applied these methods to real - world datasets, resulting in four SCI publications. <br>
+
+At the Big Data Institute, I optimized data processing and clustering algorithms. At the Bank of China, I was involved in the deployment and fine tuning of large language models - Qwen 14B. I also utilized the Vue framework for front - end development.     <!--Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.--><br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - siming_deng_stat [at] @163.com
 
@@ -24,7 +26,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Nonparametric Statistics
 
 My current research focuses on addressing critical challenges in measurement error modeling and unobservable variable estimation, particularly in multiplicative distortion frameworks. Through theoretical advancements in calibration methods and simulation optimization, I have contributed to improving the accuracy of correlation coefficient estimation under complex industrial scenarios.
-
+<!-- 
 ---
 
 ## News and Updates
@@ -34,9 +36,9 @@ My current research focuses on addressing critical challenges in measurement err
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò. -->
 
-<br>
+<!-- <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
