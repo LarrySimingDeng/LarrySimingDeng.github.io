@@ -20,7 +20,7 @@ This page hasn’t been updated for a long time. Over the past year, I’ve rema
 <img src="/images/dsm2.jpg">
 <img src="/images/dsm3.jpg">
 <img src="/images/dsm4.jpg">
-</div>
+</div><br>
 
 <!-- ## Workshop
 
@@ -39,7 +39,7 @@ This page hasn’t been updated for a long time. Over the past year, I’ve rema
 My guitar, my life. My guitar, my wife :)
 
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/guitar.jpg">
 </div>
 <br>
 
