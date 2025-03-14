@@ -8,7 +8,7 @@ title: Publications
 
 ## Publications
 
-- [A New Logarithmic Multiplicative Distortion for Correlation Analysis](https://onlinelibrary.wiley.com/doi/10.1002/sam.11708)<br>**Siming Deng**, Jun Zhang<br>*Statistical Analysis and Data Mining: The ASA Data Science Journal, 2024._ (SCI, JCR: Q1, first author)*<br>
+- [A New Logarithmic Multiplicative Distortion for Correlation Analysis](https://onlinelibrary.wiley.com/doi/10.1002/sam.11708)<br>**Siming Deng**, Jun Zhang<br>*Statistical Analysis and Data Mining: The ASA Data Science Journal, 2024.* (SCI, JCR: Q1, first author)<br>
 
 - [A Revisit to Pearson Correlation Coefficient under Multiplicative Distortions](https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352)<br>**Siming Deng**, Jun Zhang, Yingcong Huang, Jiongtao Zhong & Xiaozhen Yang<br>*Communications in Statistics - Simulation and Computation, 2024.* (SCI, first author, Highly Cited Paper - Web of Science)<br>
 

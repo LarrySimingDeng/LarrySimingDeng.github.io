@@ -11,9 +11,8 @@ My musical heroes are legends who’ve shaped the genre: B.B. King, Eric Clapton
 
 When I’m not coding or dissecting research papers, you’ll find me strumming a blues progression, letting the music wash over me — a reminder that even the most analytical minds need an outlet for creativity. After all, life isn’t just about hitting the right notes in code; it’s about finding harmony between the head and the heart.<img src="/images/dsm2.jpg"><img src="/images/dsm3.jpg"><img src="/images/dsm4.jpg">
 
-
 ## My Guitar
-My guitar, my life. My guitar, my wife :)
+My guitar, my life. My guitar, my wife :)<br>
 <img src="/images/guitar.jpg">
 <!-- ## Chat with me -->
 
