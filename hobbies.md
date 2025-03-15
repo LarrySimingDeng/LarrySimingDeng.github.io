@@ -16,7 +16,7 @@ When I’m not coding or dissecting research papers, I’m strumming a blues pro
 <img src="/images/dsm4.jpg">
 </div><br>
 
-## My Guitar
+## My Guitar: Martin OM28 & Fender American Professional II
 My guitar, my life. My guitar, my wife :)
 <img src="/images/guitar.jpg">
 <!-- ## Chat with me -->
