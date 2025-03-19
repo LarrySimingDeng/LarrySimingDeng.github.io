@@ -33,7 +33,7 @@ My current research focuses on addressing critical challenges in measurement err
 ## News and Updates
 
 - **March 2025**: Thrilled to have received an offer from Duke University's Department of Statistical Science!<br>
-- **August 2024**: First-Author Paper: **A New Logarithmic Multiplicative Distortion for Correlation Analysis** Now Officially Published in Statistical Analysis and Data Mining (JCR Q1)<br>
+- **August 2024**: First-Author Paper: [**A New Logarithmic Multiplicative Distortion for Correlation Analysis**](https://onlinelibrary.wiley.com/doi/10.1002/sam.11708) Now Officially Published in [Statistical Analysis and Data Mining](https://onlinelibrary.wiley.com/journal/19321872) (JCR Q1)<br>
 
 
 
